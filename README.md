@@ -27,7 +27,7 @@ Spreadsheets are available both in Excel and CSV formats.
 
 ## Contact
 
-[Giorgio A. Ubbiali  ] 
+[Giorgio A. Ubbiali] (Giorgio.Ubbiali@unimi.it)
 
 ## Publications
 
