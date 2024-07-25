@@ -12,8 +12,8 @@ The List of Sustainability ontologies is a starting basis for developing a catal
 The list of Sustainability Ontologies includes three spreadsheets: 
 
 1) The list guidelines.
-2) The list of assessed ontologies.
-3) The list of assessed terms.
+2) The list of assessed ontologies (List A).
+3) The list of assessed terms (List B).
 
 The methodology for the list's construction is documented in the ….. and the list guidelines spreadsheet.
 
