@@ -5,6 +5,7 @@
 This repository maintains the List of Sustainability Ontologies.  The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in ………… (Annex 1 of this publication).
 The List of Sustainability ontologies is a starting basis for developing a catalog of ontological resources addressing sustainability and sustainable development.
 
+
 ## Material
 
 The list includes three spreadsheets: 
@@ -14,6 +15,7 @@ The list includes three spreadsheets:
 The methodology for annex construction is documented in the ….. and the annex guidelines spreadsheet.
 Spreadsheets are available both in Excel and CSV formats.
 
+
 ## Authors
 
 [Giorgio A.Ubbiali](https://orcid.org/0000-0001-7872-1770)
@@ -22,9 +24,11 @@ Spreadsheets are available both in Excel and CSV formats.
 
 [Matthew C. Lange](https://orcid.org/0000-0002-6148-7962)
 
+
 ## Involved institutions
 
 [UNIMI](https://www.unimi.it/it)
+
 [IC-FOODS](https://www.ic-foods.org/)
 
 
@@ -32,9 +36,11 @@ Spreadsheets are available both in Excel and CSV formats.
 
 Giorgio.Ubbiali@unimi.it
 
+
 ## Publications
 
 Coming soon.
 
+
 ## License
-This work is licensed under [ CC BY 4.0  ]
+This work is licensed under [CC BY 4.0 ](https://creativecommons.org/licenses/by/4.0/)
