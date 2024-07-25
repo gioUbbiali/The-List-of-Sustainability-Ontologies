@@ -16,9 +16,9 @@ Spreadsheets are available both in Excel and CSV formats.
 
 ## Authors
 
-[ Giorgio A. Ubbiali] (0000-0001-7872-1770 )
-[ Andrea Borghini] (0000-0002-2239-1482)
-[Matthew C Lange ] (0000-0002-6148-7962)
+[Giorgio A. Ubbiali] (0000-0001-7872-1770)
+[Andrea Borghini] (0000-0002-2239-1482)
+[Matthew C Lange] (0000-0002-6148-7962)
 
 ## Involved institutions
 
