@@ -2,9 +2,7 @@
 
 ## Description
 
-This repository maintains the List of Sustainability Ontologies.
-
-The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in ………… (Annex 1 of this publication).
+This repository maintains the List of Sustainability Ontologies.The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in ………… (Annex 1 of this publication).
 
 The List of Sustainability ontologies is a starting basis for developing a catalog of ontological resources addressing sustainability and sustainable development.
 
