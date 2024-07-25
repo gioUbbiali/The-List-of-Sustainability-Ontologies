@@ -17,7 +17,9 @@ Spreadsheets are available both in Excel and CSV formats.
 ## Authors
 
 [Giorgio A.Ubbiali](https://orcid.org/0000-0001-7872-1770)
+
 [Andrea Borghini](https://orcid.org/0000-0002-2239-1482)
+
 [Matthew C. Lange](https://orcid.org/0000-0002-6148-7962)
 
 ## Involved institutions
