@@ -3,6 +3,7 @@
 ## Description
 
 This repository maintains the List of Sustainability Ontologies.
+
 The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in ………… (Annex 1 of this publication).
 
 The List of Sustainability ontologies is a starting basis for developing a catalog of ontological resources addressing sustainability and sustainable development.
@@ -10,11 +11,11 @@ The List of Sustainability ontologies is a starting basis for developing a catal
 
 ## Material
 
-The list includes three spreadsheets: 
+The list of Sustainability Ontologies includes three spreadsheets: 
 
-1) the annex guidelines.
-2) the list of assessed ontologies.
-3) the list of assessed terms.
+1) The annex guidelines.
+2) The list of assessed ontologies.
+3) The list of assessed terms.
 
 The methodology for annex construction is documented in the ….. and the annex guidelines spreadsheet.
 
