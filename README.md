@@ -15,7 +15,7 @@ The list of Sustainability Ontologies includes three spreadsheets:
 2) The list of assessed ontologies ([List A](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20A)).
 3) The list of assessed terms (List B).
 
-The methodology for the list's construction is documented in the ….. and the list guidelines spreadsheet.
+The list guidelines spreadsheet and the "methods" section of the paper ... detail the methodology followed for constructing the list.
 
 Spreadsheets are available both in Excel and CSV formats.
 
