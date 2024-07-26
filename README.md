@@ -11,7 +11,7 @@ The List of Sustainability ontologies is a starting basis for developing a catal
 
 The list of Sustainability Ontologies includes three spreadsheets: 
 
-1) T[he list guidelines.](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20guidelines)
+1) [The list guidelines.](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20guidelines)
 2) The list of assessed ontologies [(List A)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20A).
 3) The list of assessed terms [(List B)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/LIst%20B).
 
