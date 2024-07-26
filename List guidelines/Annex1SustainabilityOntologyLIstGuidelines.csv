@@ -1,0 +1,85 @@
+﻿Annex 1;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+The List of Sustainability Ontologies ;;;;;;;;;;;;;;;;;;
+The List of Sustainability Ontologies outlines the essential information of each ontology or term we assessed in this study.;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+General Guidelines;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Goal;;;;;;;;;;;;;;;;;;
+"In this annex, we list ontologies, thesauri, and ontological models* as well as terms retrieved during the review assessment. We aim to systematize the information collected and make it available to interested stakeholders. This annex is a starting point for further development of a catalog documenting available ontological resources related to sustainability and sustainable development.
+                                                                                                                                                                                                                                                                                                                                                                             *for the sake of brevity, from now on, we use only the term “ontology”, referring to all these ontological resources.";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Annex Organization;;;;;;;;;;;;;;;;;;
+"This annex is organized into two lists.                                                                                                                                                                                                                                                                                                                                               
+▪ List A presents ontologies retrieved both through Path 1 (literature review) and Path 2 (portals’ exploration). For each ontology, we outline the following information: the ontology name, the acronym, a reference, and the modality by which we gathered it (literature review, portals’ exploration, or both modalities).
+▪ List B presents terms collected through Path 2. For each term, we provide the name, the reference IRI, and the related ontology (acronym).";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Methodology;;;;;;;;;;;;;;;;;;
+The methodology has been described in Section 2.1. Here we provide complementary information.;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"Path 1:  Our review assessment started from papers retrieved using the keywords “Sustainability”, “Sustainable development” and “Ontology”. We complemented this pool of initial papers with those gathered using the other keywords listed in Table 1. We analyzed all ontologies presented in the collected papers. If an ontology was found to be primarily relevant to the themes characterizing the sustainability debate that we addressed in Section 1, we further assessed additional related literature, ontology files, and repositories (if available).                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                             The review assessment primarily relied on papers that were either review papers or research papers that also contained a section (usually an introductory one) dedicated to reviewing existing and related ontologies. Thus, to avoid a snowball effect resulting in an unmanageable number of ontologies to assess, we generally limited our analysis to the info presented in gathered papers without investigating the additional literature reviewed by those papers (except those few resources that appeared fundamental, for which we conducted a further analysis exploring additional related literature). 
+                                                                                                                                                                                                                                                                                                                                                                      Some of the ontologies we examined did not present any ontology files or repositories. These resources may not have been released online or simply they were not available to the public. 
+                                                                                                                                                                                                                                                                                                                                                                           List A documents all the main ontologies assessed in this path. Few ontologies were excluded as slightly significant in terms of the themes characterizing the sustainability debate. An exception to that is those presented by  Baydaroğlu et al. (2023) who reviewed currently available ontologies in the hydrogeology domain. Due to the large number of covered resources and the limited information presented for each of them, in this case, we decided to include only those authors indicated as the most relevant ones. For learning about other hydrogeology ontologies, we refer readers directly to the publication of Baydaroğlu et al. (2023). In this list, we included the major top-level ontologies mentioned in the analyzed papers.                  ";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;; 
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"Path 2:  We explored portals’ indexes and ontology descriptions. A keyword query was performed as well. Retrieved terms pointed to possible relevant ontologies for sustainability. We assessed these resources focusing on information provided on portals. For some ontologies that were primarily relevant to the themes characterizing the sustainability debate, we extended the assessment to main publications.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      List B presents terms gathered from queries that match or contain (at least partially) the keyword(s) used. We equally reported returned terms that did not contain keywords in the label but were relevant to the narrative of sustainability. We excluded non-relevant results manually. We also included additional relevant terms that emerged during ontology taxonomy exploration, primarily those belonging to the ontology portions pertaining to the keyword terms. These choices have been based on term relevance for the themes characterizing the sustainability debate, addressed in section 1. Results from the Agriculture and Forestry Ontology (AFO) include the Finnish names.";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+"List A References: For all the ontologies included in the list, we provided references to main related publications or webpages presenting connected documentation. For a few resources, we were not able to identify any reference documents. In those cases (indicated with an * in the  List A “Ontology Name” column), we provided links to homepages or repositories. If we identified neither a homepage nor a repository, we furnish the link to the portal page where we retrieved them.
+                                                                                                                                                                                                                                                                                                                                                                                          For ontologies gathered through Path 1, we provided links to papers we analyzed and to those cited in the related bibliographies. References to ontologies collected through Path 2 were chosen according to the documentation specified in the portals where we identified these resources. If no publications were available, we explored ontology repositories or homepages. We also queried for ontology names, author names, and essential keywords, such as the names of the projects within which the ontologies were developed, in Google Scholar and PubMed browsers. The exploration was expanded to Google browser at times, to increase the chance of identifying the related documentation.";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+In a nutshell;;;;;;;;;;;;;;;;;;
+"• 574 ontologies gathered.
+• Path 1 provided 282 ontologies.
+• Path 2 provided 251 ontologies.
+• 41 ontologies were retrieved through both review paths. 
+• We did not find a publication for 35 ontologies.
+
+• Keyword query into portals returns 1022 relevant terms.";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
