@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository maintains the List of Sustainability Ontologies.The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in ………… (Annex 1 of this publication).
+This repository maintains the List of Sustainability Ontologies.The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in the article referred to in the "publication and documentation" section of this repository (Annex 1 of this publication).
 
 The List of Sustainability ontologies is a starting basis for developing a catalog of ontological resources addressing sustainability and sustainable development.
 
@@ -15,7 +15,7 @@ The list of Sustainability Ontologies includes three spreadsheets:
 2) The list of assessed ontologies [(List A)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20A).
 3) The list of assessed terms [(List B)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/LIst%20B).
 
-The list guidelines spreadsheet and the "methods" section of the paper ... detail the methodology followed for constructing the list.
+The list guidelines spreadsheet and the "methods" section of the article referred to in the "publication and documentation" section of this repository detail the methodology followed for constructing these lists.
 
 Spreadsheets are available both in Excel and CSV formats.
 
