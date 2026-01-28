@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository maintains the List of Sustainability Ontologies.The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in [Ubbiali *et al.* (2024)](https://doi.org/10.31219/osf.io/z8uqr), (Annex 1 of this publication).
+This repository maintains the List of Sustainability Ontologies.The List of Sustainability Ontologies documents the ontologies and terms explored during the review assessment performed in [Ubbiali *et al.* (2026)](https://doi.org/10.1002/sd.70562), (Annex 1 of this publication).
 
 The List of Sustainability ontologies is a starting basis for developing a catalog of ontological resources addressing sustainability and sustainable development.
 
@@ -15,7 +15,7 @@ The list of Sustainability Ontologies includes three spreadsheets:
 2) The list of assessed ontologies [(List A)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/List%20A).
 3) The list of assessed terms [(List B)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies/tree/main/LIst%20B).
 
-The list guidelines spreadsheet and the "methods" section of [Ubbiali *et al.* (2024)](https://doi.org/10.31219/osf.io/z8uqr ) detail the methodology followed for constructing these lists.
+The list guidelines spreadsheet and the "methods" section of [Ubbiali *et al.* (2026)](https://doi.org/10.1002/sd.70562) detail the methodology followed for constructing these lists.
 
 Spreadsheets are available both in Excel and CSV formats.
 
@@ -43,7 +43,7 @@ Giorgio.Ubbiali@unimi.it
 
 ## Publications and documentation
 
-- Ubbiali, G. A., Borghini, A., & Lange, M. C. (2024). *Ontologies for Sustainability: Theoretical Challenges*. https://doi.org/10.31219/osf.io/z8uqr 
+- Ubbiali, G. A., Lange, M. C., & Borghini, A. (2026). Ontologies for Sustainability: Theoretical Challenges. Sustainable Development, sd.70562. https://doi.org/10.1002/sd.70562; preprint available at https://doi:10.31219/osf.io/z8uqr
 
 - Ubbiali, G. A. (2025). *Designing Foundational Strategies for Developing a Family of Food Systems Sustainability Ontologies*. PhD Thesis, UNIMI. https://air.unimi.it/handle/2434/1161515
 
